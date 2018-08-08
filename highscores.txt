@@ -8,3 +8,4 @@
 12:54:35 Name : joe, Score : 480
 12:56:24 Name : Joe, Score : 130
 13:04:45 Name : WER, Score : 330
+13:27:58 Name : joe, Score : 0
