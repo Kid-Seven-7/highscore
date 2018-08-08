@@ -1,2 +1,3 @@
 09:32:59 Name : joe, Score : 0
 09:34:38 Name : joe, Score : 120
+09:40:14 Name : joe, Score : 740
