@@ -1,4 +1,2 @@
 
-14:08:14 Name : Joe, Score : 10
-14:08:38 Name : Joy, Score : 10
-14:13:37 Name : Joe, Score : 510
+14:14:19 Name : tut, Score : 10
