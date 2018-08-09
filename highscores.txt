@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 14:04:47 Name : Joe, Score : 550
+=======
+
+>>>>>>> c8b398873aba115bec336ff9cbbc66096da730d5
+14:05:54 Name : Joe, Score : 10
