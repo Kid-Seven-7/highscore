@@ -1,13 +1,1 @@
-09:32:59 Name : joe, Score : 0
-09:34:38 Name : joe, Score : 120
-09:40:14 Name : joe, Score : 740
-09:40:53 Name : Joe, Score : 10
-12:44:26 Name : Joe, Score : 170
-12:49:18 Name : Joe, Score : 270
-12:50:59 Name : joe, Score : 0
-12:54:35 Name : joe, Score : 480
-12:56:24 Name : Joe, Score : 130
-13:04:45 Name : WER, Score : 330
-13:27:58 Name : joe, Score : 0
-13:43:10 Name : joe, Score : 100
-08:41:30 Name : joe, Score : 0
+
