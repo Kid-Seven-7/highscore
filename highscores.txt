@@ -1,1 +1,8 @@
-14:32:19 Name : pro, Score : 0
+12:58:28 Name : joe, Score : 0
+13:00:39 Name : joe, Score : 400
+13:09:53 Name : [A, Score : 170
+13:11:29 Name : [A, Score : 20
+13:32:11 Name : [A, Score : 370
+13:33:21 Name : [A, Score : 110
+13:35:05 Name : jjj, Score : 500
+13:35:54 Name : [A, Score : 20
