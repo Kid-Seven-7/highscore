@@ -8,3 +8,4 @@
 13:35:54 Name : [A, Score : 20
 13:37:16 Name : [A, Score : 160
 13:37:31 Name : [A, Score : 0
+13:37:49 Name : [A, Score : 20
