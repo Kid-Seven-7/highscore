@@ -6,3 +6,4 @@
 13:33:21 Name : [A, Score : 110
 13:35:05 Name : jjj, Score : 500
 13:35:54 Name : [A, Score : 20
+13:37:16 Name : [A, Score : 160
